@@ -79,6 +79,7 @@ let registration_check = localStorage.getItem("registration"); // check if alrea
 
 window.addEventListener("load", () => {
   new_form.style.display = "none";
+  alert("Use 'admin' passcode to aceess! ")
   passcode_div.style.display = "block";
   if (registration_check !== null) {
   window.location='./admin.login.html'
