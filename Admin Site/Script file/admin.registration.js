@@ -73,14 +73,15 @@ let url = "https://6410847f7b24bb91f21fd94b.mockapi.io/ali"; //api for post http
 let code = "admin"; //passcode
 let taking_code = document.querySelector("#code"); //passcode input
 let taking_code_form = document.querySelector("#passcode form");
-let alert = document.querySelector(".alert"); //if passcode is wrong
+let alerts= document.querySelector(".alert"); //if passcode is wrong
 
 let registration_check = localStorage.getItem("registration"); // check if already registration done or not
 
 window.addEventListener("load", () => {
   new_form.style.display = "none";
+ 
+  passcode_div.style.display = "block"; 
   alert("Use 'admin' passcode to aceess! ")
-  passcode_div.style.display = "block";
   if (registration_check !== null) {
   window.location='./admin.login.html'
   }
@@ -94,9 +95,9 @@ taking_code_form.addEventListener("submit", (e) => {
     passcode_div.style.display = "none";
     new_form.style.display = "block";
   } else {
-    alert.style.display = "block";
+    alerts.style.display = "block";
     setTimeout(() => {
-      alert.style.display = "none";
+      alerts.style.display = "none";
     }, 1000);
   }
   taking_code_form.reset();
