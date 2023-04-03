@@ -11,7 +11,7 @@ Discover a world of endless shopping possibilities at our e-commerce store! with
 ![App Screenshot](https://iili.io/HOCndUx.jpg)
 
 ## To Visit 
-https://eclectic-selkie-b0b220.netlify.app/
+https://blueberry-site.netlify.app/
 
 ## Authors
 
