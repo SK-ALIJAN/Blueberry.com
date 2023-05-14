@@ -10,9 +10,10 @@ Javascript, LocalStarage, Api, Css, Html
  
 ## Features
 - Our website, built with the power of HTML, CSS, and JavaScript! Our team of web developers has worked tirelessly to create a seamless user experience for you. From the layout and design to the functionality and interactivity. <br>
-<p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/e8a08207-96bd-43aa-adf0-716a5a119c5d"></p> <br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/e8a08207-96bd-43aa-adf0-716a5a119c5d"></p>
 
 - Blueberry, where you can create an account or log in to access all of our amazing features. By logging in, you can save your preferences, track your orders
+<p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/c1db1568-35cb-4c26-af83-1610545cdfc0"></p>
 
 - In product page, where you can find high-quality products in various categories , we've added search for specific products, filter by price, category, or brand  
 
