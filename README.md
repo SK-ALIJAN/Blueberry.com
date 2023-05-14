@@ -21,9 +21,9 @@ Blueberry is a dynamic e-commerce website that offers a wide range of high-quali
 <br><br> ✽✽ Product page ✽✽ <br>
 <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/88159bf7-261e-4255-8365-5cccec56d3a4"></p>
 
-- We are added  Add to Cart page , product view , Payment gateway page to this Website. <br>
+- We are added  Add to Cart page , product view , Payment gateway page to this Website. <br><br>
 ✽✽ Product view page ✽✽ <br>
- <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/25a8042f-7066-494a-9452-4b5755a85ccb"></p> <br><br>
+ <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/25a8042f-7066-494a-9452-4b5755a85ccb"></p> 
 
 ✽✽ Add to Cart page ✽✽ <br>
  <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/9e7d2e4b-909d-448e-8211-5720545b507b"></p>
