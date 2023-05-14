@@ -18,15 +18,15 @@ Javascript, LocalStarage, Api, Css, Html
 - In product page, where you can find high-quality products in various categories , we've added search for specific products, filter by price, category, or brand 
  <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/88159bf7-261e-4255-8365-5cccec56d3a4"></p>
 
-- We are added  Add to Cart page , product view , Payment gateway page to this Website.
-- Add to Cart page
- <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/9e7d2e4b-909d-448e-8211-5720545b507b"></p>
-
-- Product view page
+- We are added  Add to Cart page , product view , Payment gateway page to this Website. 
+✽✽ Product view page ✽✽
  <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/25a8042f-7066-494a-9452-4b5755a85ccb"></p>
 
+✽✽ Add to Cart page ✽✽
+ <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/9e7d2e4b-909d-448e-8211-5720545b507b"></p>
 
 - Our Admin page, where you can manage all of the content on our website. With the power of CRUD operations - create, read, update, and delete - you can easily add new products, update existing ones, and remove outdated content.
+<p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/33c31c6f-95e4-4be7-afa7-f55d0e5fe673"></p>
 
 
 ## ✪ To Visit 
